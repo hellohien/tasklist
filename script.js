@@ -9,7 +9,7 @@ document.getElementById("time").innerHTML = date();
 function date() {
   var d = new Date(),
     months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'],
-    days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'Saturday'];
+    days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
   return days[d.getDay()] + ', ' + months[d.getMonth()] + ' ' + d.getDate();
 }
 
