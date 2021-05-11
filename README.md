@@ -1,4 +1,7 @@
 # tasklist
-your daily to-do list
+<a href="https://hnguy96.github.io/tasklist/">Live Site</a>
 
-view it live <a href="https://hnguy96.github.io/tasklist/">here</a>
+Your daily to-do list
+
+Built using: HTML, CSS, JavaScript
+
